@@ -1,0 +1,1 @@
+export let URL_API = "http://127.0.0.1/LonginusAPI/index.php/api/v1";
